@@ -97,7 +97,7 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 
 ### 1. 로그인
 로그인 화면을 통해 사용자 인증을 처리하는 과정입니다.  
-<a href="#">
+<a href="[#](https://github.com/user-attachments/assets/fdf8c9ce-6521-43a4-99b9-085c7c7da329)">
   로그인 영상
 </a>
 
