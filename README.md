@@ -93,31 +93,31 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 
 ### 1. 로그인
 로그인 화면을 통해 사용자 인증을 처리하는 과정입니다.  
-<a href="https://github.com/user-attachments/assets/로그인-영상-url">
+<a href="#">
   로그인 영상
 </a>
 
 ### 2. 고객 관리
 고객 목록 조회, 고객 등록, 수정, 삭제 기능을 보여주는 영상입니다.  
-<a href="https://github.com/user-attachments/assets/고객-관리-영상-url">
+<a href="#">
   고객 관리 영상
 </a>
 
 ### 3. 피보험자 관리
 피보험자 목록 조회, 등록, 수정, 삭제 과정입니다.  
-<a href="https://github.com/user-attachments/assets/피보험자-관리-영상-url">
+<a href="#">
   피보험자 관리 영상
 </a>
 
 ### 4. 계약 관리
 계약 리스트 조회, 계약 등록, 수정, 삭제 과정입니다.  
-<a href="https://github.com/user-attachments/assets/계약-관리-영상-url">
+<a href="#">
   계약 관리 영상
 </a>
 
 ### 5. 공지사항 관리
 공지사항 목록 조회, 등록, 수정, 삭제 및 댓글 관리 기능입니다.  
-<a href="https://github.com/user-attachments/assets/공지사항-관리-영상-url">
+<a href="#">
   공지사항 관리 영상
 </a>
 
@@ -128,4 +128,4 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 
 ---
 
-**📑 전체 상세 문서**: [docs/KD손해보험_프로젝트_설명서.pdf](docs/KD손해보험_프로젝트_설명서.pdf)
+**📑 전체 상세 문서**: [KD손해보험(백엔드 프로젝트).pdf](https://github.com/user-attachments/files/21708715/KD.pdf)
