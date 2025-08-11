@@ -12,6 +12,8 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 
 **프로젝트 기간**: 전체 기간: 2025.07.08 ~ 2025.08.11
 
+---
+
 ## 기술 스택
 
 ### 프론트엔드 (View / JSP 기반)
@@ -35,22 +37,14 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 - **ORM**: MyBatis
 - **보안**: Spring Security  
 - **API**: REST API
+- **데이터베이스 연동**: Oracle DB, JDBC + MyBatis, HikariCP
+- **SQL 작성**: Mapper XML
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-1E4A69?style=for-the-badge&logo=mybatis&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
----
-
-### 데이터베이스 연동 (Persistence)
-- **DBMS**: Oracle DB
-- **연동 기술**: JDBC + MyBatis
-- **Connection Pool**: HikariCP
-- **SQL 작성**: Mapper XML
-
 ![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-1E4A69?style=for-the-badge&logo=mybatis&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-0082FC?style=for-the-badge&logo=java&logoColor=white)
 ![HikariCP](https://img.shields.io/badge/HikariCP-66FF66?style=for-the-badge&logo=hikari&logoColor=white)
 
