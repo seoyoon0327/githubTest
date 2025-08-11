@@ -57,8 +57,6 @@ Java + Spring Legacy + Oracle 기반의 보험사 관리자 페이지
 
 ---
 
----
-
 ## 📄 데이터베이스 설계 (ERD)
 ![ERD](https://github.com/user-attachments/assets/0f1a88da-d62d-468b-befd-a6b009c5152c)
 
