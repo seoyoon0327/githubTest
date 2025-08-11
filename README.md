@@ -13,8 +13,17 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 **프로젝트 기간**: 전체 기간: 2025.07.08 ~ 2025.08.11
 
 **기술 스택**:
-- **프론트엔드**: HTML, CSS, JavaScript, Bootstrap, JQuery
-- **백엔드**: Spring, Java
+
+- **프론트엔드**: 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+- **백엔드**:
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
