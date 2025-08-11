@@ -151,4 +151,4 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 
 ---
 
-**📑 전체 상세 문서**: [KD손해보험(백엔드 프로젝트).pdf](https://github.com/user-attachments/files/21708715/KD.pdf)
+<-- **📑 전체 상세 문서**: [KD손해보험(백엔드 프로젝트).pdf](https://github.com/user-attachments/files/21708715/KD.pdf) -->
