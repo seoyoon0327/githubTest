@@ -27,6 +27,21 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+---
+
+### 백엔드 (Spring 기반)
+- **백엔드 프레임워크**: Spring Framework (Spring Legacy)
+- **언어**: Java
+- **ORM**: MyBatis
+- **보안**: Spring Security  
+- **API**: REST API
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-1E4A69?style=for-the-badge&logo=mybatis&logoColor=white)
+
+---
+
 ### 빌드 도구 / 개발 환경
 - **IDE**: Eclipse  
 - **빌드 도구**: Maven  
