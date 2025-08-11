@@ -68,6 +68,8 @@ KD손해보험의 보험 업무 진행을 위한 **관리자 페이지를 구현
 ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ## #1. 설명
 ### 시스템 아키텍처
 프로젝트의 아키텍처는 다음과 같이 구성됩니다:
