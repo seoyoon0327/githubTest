@@ -9,5 +9,5 @@ Java + Spring Lagacy + Oracle
 
 #3. 유튜브 = 링크주소 복사
 <a href ="https://www.youtube.com/watch?v=CQtrGGC_dko">
-  <img src ="#" alt ="유튜브 썸네일">
+  <img src ="#" alt ="유튜브 썸네일" />
 </a>
